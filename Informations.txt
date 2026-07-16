@@ -1,0 +1,60 @@
+Nom : RAJAONARIVELO
+Prenom : Harivony
+21 Ans (23 Aout 2005)
+
+Etudiant 3ème annee en Developpement Informatique + UI/UX Design et en Design Graphique à l'IT University.
+
+Education :
+    IT University (Andoharanofotsy)
+    2023 - Aujourd’hui
+    3e année en Informatique & Design
+
+    ESCA (Antanimena)
+    Juillet 2023
+    Baccalauréat Série A2
+
+
+Projets Académiques :
+    Gestion Plateforme Musique MP3.
+    React + Symphony + Java + MySQL
+
+    Detection Plagiat Laravel
+    Php + Laravel + PostgreSQL
+
+    Gestion Garage (travail de groupe)
+    Ionic + Godot + Laravel + Firebase
+
+    Création identité visuelle de marque
+    Illustrator + InDesign + Photoshop
+
+    Mise en forme de packaging des marques
+    Illustrator + Photoshop
+
+Compétences :
+    BASE DE DONNEES
+    MySQL - PostgreSQL
+
+    BACK-END
+    Java - PHP - Laravel
+
+    FRONT-END
+    HTML/CSS/JS - React - Vue.js - Angular
+
+    DESIGN
+    InDesign - Illustrator - Photoshop
+
+Langue :
+    Malgache (natif)
+    Français (courant)
+    Anglais (basique)
+
+Contact :
+    +261 34 38 169 98
+    harirajao2308@gmail.com
+    Lot 490 Analamahitsy Cité
+
+Lien linkedin :
+    https://www.linkedin.com/in/harivony-rajaonarivelo/
+
+Lien github :
+    https://github.com/Harivony23

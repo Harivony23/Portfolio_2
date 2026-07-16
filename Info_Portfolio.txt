@@ -1,0 +1,36 @@
+Le portfolio sera d'une seule page avec plusieurs sections pour representer chaque partie.
+
+Au debut/commencement du portfolio, comme chargement, mettre mon Prenom "Harivony" en Text Scramble / Decrypt Effect (Effet de décodage), en grand format comme titre, et "portfolio" comme sous-titre.
+Tu peux utiliser généralement :
+CSS → animation (opacity, couleur, transform...) ou JavaScript → changement des caractères.
+
+
+Pour le contenu du portfolio, tu peux utiliser :
+| Animation              |
+| -----------------------|
+| Text Scramble / Decrypt|
+| Typewriter             |
+| Character Reveal       |
+| Terminal               |
+| Fade In                |
+| Slide In               |
+| Zoom In                |
+| Blur Reveal            |
+| Glitch                 |
+| Neon Flicker           |
+| Wave                   |
+| Bounce                 |
+| Flip                   |
+| Shimmer                |
+| Gradient               |
+| Matrix Rain            |
+| Smoke                  |
+| Fire                   |
+| Liquid                 |
+| Morphing               |
+
+Librairies deja installer :
+npm install react-router-dom react-icons framer-motion aos @emailjs/browser react-type-animation swiper react-toastify tailwindcss @tailwindcss/vite tailwindcss@latest @tailwindcss/vite@latest daisyui@latest
+
+Mets ma photo dans le portfolio
+Mets un lien pour telecharger mon CV(qui est deja dans un repertoire du dossier)
