@@ -48,7 +48,7 @@ const Hero = () => {
             <a href="#contact" className="bento-box bg-white text-black hover:bg-gray-200 px-8 py-4 flex items-center justify-center font-bold transition-colors">
               Me_Contacter
             </a>
-            <a href="/cv.pdf" download className="bento-box hover:bg-white/5 px-8 py-4 flex items-center justify-center gap-3 transition-colors text-white">
+            <a href="../../public/Harivony_CV.pdf" download className="bento-box hover:bg-white/5 px-8 py-4 flex items-center justify-center gap-3 transition-colors text-white">
               <Download size={18} />
               <span>Mon_CV</span>
             </a>
