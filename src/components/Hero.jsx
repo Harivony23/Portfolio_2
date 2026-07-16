@@ -3,6 +3,15 @@ import { TypeAnimation } from 'react-type-animation';
 import { Download, Cpu } from 'lucide-react';
 import { FiGithub, FiLinkedin } from 'react-icons/fi';
 
+const downloadCV = () => {
+  const link = document.createElement("a");
+  link.href = "/Harivony_CV.pdf";
+  link.download = "Harivony_Rajaonarivelo_CV.pdf";
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+};
+
 const Hero = () => {
   return (
     <section id="home" className="min-h-screen flex items-center justify-center pt-20 relative z-10">
@@ -48,14 +57,13 @@ const Hero = () => {
             <a href="#contact" className="bento-box bg-white text-black hover:bg-gray-200 px-8 py-4 flex items-center justify-center font-bold transition-colors">
               Me_Contacter
             </a>
-            <a
-              href="/Harivony_CV.pdf"
-              download="Harivony_Rajaonarivelo_CV.pdf"
+            <button
+              onClick={downloadCV}
               className="bento-box hover:bg-white/5 px-8 py-4 flex items-center justify-center gap-3 transition-colors text-white"
             >
               <Download size={18} />
               <span>Mon_CV</span>
-            </a>
+            </button>
           </div>
         </motion.div>
 
