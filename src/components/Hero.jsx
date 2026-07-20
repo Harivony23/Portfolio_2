@@ -50,11 +50,11 @@ const Hero = () => {
           </div>
           
           <p className="text-[var(--theme-muted)] max-w-2xl text-lg font-mono leading-relaxed mb-10">
-            Étudiant en 3ème année à l'IT University. Passionné par la création d'interfaces IA, d'expériences numériques immersives et l'architecture backend robuste.
+            Étudiant en 3e année Informatique & Design à l’IT University, passionné par le développement web les bases de données et la création graphique.
           </p>
           
           <div className="flex flex-wrap gap-4 font-mono text-sm uppercase tracking-widest">
-            <a href="#contact" className="bento-box bg-white text-black hover:bg-gray-200 px-8 py-4 flex items-center justify-center font-bold transition-colors">
+            <a href="#contact" className="bento-box bg-white text-white hover:bg-gray-200 px-8 py-4 flex items-center justify-center font-bold transition-colors">
               Me_Contacter
             </a>
             <button

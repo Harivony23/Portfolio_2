@@ -41,7 +41,7 @@ const useScramble = (text, delay = 0) => {
 };
 
 const Loader = ({ onComplete }) => {
-  const nameScramble = useScramble('HARIVONY', 300);
+  const nameScramble = useScramble('HARIVONY', 500);
   const titleScramble = useScramble('PORTFOLIO', 1500);
 
   useEffect(() => {

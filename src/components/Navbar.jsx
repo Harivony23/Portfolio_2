@@ -32,7 +32,7 @@ const Navbar = () => {
             </div>
             <div className="flex flex-col">
               <span className="font-heading font-bold text-lg leading-none uppercase tracking-widest text-white group-hover:text-[var(--theme-primary)] transition-colors">Harivony</span>
-              <span className="font-mono text-[10px] uppercase tracking-widest text-[var(--theme-muted)]">Portfolio_V2</span>
+              <span className="font-mono text-[10px] uppercase tracking-widest text-[var(--theme-muted)]">Portfolio</span>
             </div>
           </a>
 

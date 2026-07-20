@@ -79,17 +79,17 @@ const Projects = () => {
             <div className="relative z-10 flex flex-col h-full justify-between">
               <div>
                 <div className="flex justify-between items-start mb-6">
-                  <div className="text-[var(--theme-muted)]">
+                  {/* <div className="text-[var(--theme-muted)]">
                     <Folder size={28} strokeWidth={1.5} />
-                  </div>
-                  <div className="flex gap-3">
+                  </div> */}
+                  {/* <div className="flex gap-3">
                     <a href="#" className="text-[var(--theme-muted)] hover:text-white transition-colors">
                       <FiGithub size={20} />
                     </a>
                     <a href="#" className="text-[var(--theme-muted)] hover:text-white transition-colors">
                       <ExternalLink size={20} />
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <h3 className="text-2xl font-bold text-white mb-3 font-heading uppercase tracking-wide group-hover:text-[var(--theme-primary)] transition-colors">
                   {project.title}

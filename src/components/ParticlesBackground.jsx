@@ -5,7 +5,6 @@ import { loadSlim } from "@tsparticles/slim";
 const ParticlesBackground = ({ theme }) => {
 
   const particlesInit = useCallback(async (engine) => {
-    // this loads the slim version of tsparticles
     await loadSlim(engine);
   }, []);
 
